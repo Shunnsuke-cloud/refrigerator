@@ -1,0 +1,4 @@
+streamlit
+google-generativeai
+scikit-learn
+pandas
